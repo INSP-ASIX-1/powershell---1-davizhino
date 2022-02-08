@@ -1,1 +1,1 @@
-#Número d'àlies que té el sistema
+#Número d'àlies que té el siste
