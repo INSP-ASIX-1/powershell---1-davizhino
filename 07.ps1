@@ -1,2 +1,2 @@
 #Numero de comandes que comencen per 'Remove'
-Get-ExecutionPolicy
+Get-Command Remove* | Measure-Object).Count
